@@ -1,0 +1,30 @@
+.custom-navbar {
+    background-color: #f9cb9c; /* Substitua pela cor desejada em formato hexadecimal, RGB, ou nome da cor */
+    color: #ffffff; /* Cor do texto na barra de navegação */
+}
+
+.left-navbar {
+    text-align: left;
+}
+
+
+  img {
+    width: 100%; /* Faz a imagem ocupar 100% da largura do contêiner pai (neste caso, a largura da tela) */
+    height: auto; /* Mantém a proporção original da imagem ajustando automaticamente a altura */
+    display: block; /* Remove espaços indesejados abaixo da imagem */
+}
+
+
+h5 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p{
+    text-align: center;
+}
+
+div {
+    background-color: #f9cb9c;
+    width: 100%;
+}
